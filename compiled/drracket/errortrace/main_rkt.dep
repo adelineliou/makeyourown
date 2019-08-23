@@ -1,0 +1,1 @@
+("7.1" ("4b9ed2c5bdd85cf631657062f3df37f52bdfd927" . "e066b1d3a85b6ed1d81e85d76681e760fe7e4a0f") (collects #"errortrace" #"errortrace-key.rkt") (collects #"makeyourown" #"facemaker" #"face.rkt") (collects #"makeyourown" #"housemaker" #"house.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,6 @@
+#lang racket/base
+
+(provide (all-from-out "./house.rkt"
+                       "./face.rkt"))
+(require "./house.rkt"
+         "./face.rkt")
